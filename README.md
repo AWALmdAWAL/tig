@@ -36,10 +36,10 @@ just new try?
 
  [+] Author :-
 
-    Name : Mujeeb
-    Youtube: www.youtube.com/TechnicalMujeeb
-    Github: https://github.com/TechnicalMujeeb/tmvenom.git
-    Whatsapp : Termux Cyber
+    Name : AWALmdAWAL
+    Facebook:Md Shiam
+    Github: https://github.com/AWALmdAWAL/tig.git
+    
 
  [+] Installation :-
 
@@ -47,14 +47,14 @@ just new try?
     apt upgrade
     apt install git
     apt install python2
-    git clone https://github.com/TechnicalMujeeb/tmvenom.git
-    cd tmvenom
+    git clone https://github.com/AWALmdAWAL/tig.git
+    cd tig
     chmod +x *
     sh install.sh
 
  [+] Usage :-
 
-    python2 tmvenom.py
+    python2 tig.py
 
     (select payload options and you can easily generates payloads)
 
